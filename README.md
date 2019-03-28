@@ -21,7 +21,7 @@ Artificial Intelligence-related research project that involves python implementa
 
 
 ### How to run
-Run command
+Run the python script with the command
 ```
 python <PROGRAM FILENAME> <DATA FILENAME>
 ```
