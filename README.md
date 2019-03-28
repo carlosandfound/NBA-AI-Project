@@ -1,1 +1,1 @@
-# Pathfinding-and-Exploration
+# NBA Artificial Intelligence Research Project
