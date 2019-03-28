@@ -12,7 +12,7 @@ Implement the following pathfinding and exploratory algorithms in python to comp
 
 ### Files
 - project-requirements.pdf: details the requirements and guidelines of the research project
-- #### pathfinding-and-exploration.pdf: research paper detailing the problem being problem, the reasoning behind the proposed solution, and the analysis on the experiment findings
+- [**pathfinding-and-exploration.pdf**](https://github.com/carlosandfound/NBA-AI-Research/blob/master/pathfinding-and-exploration.pdf): research paper detailing the problem being problem, the reasoning behind the proposed solution, and the analysis on the experiment findings
 - small-sample.html: contains information extracted from NBA.com about all current NBA players
 - large-sample.html: contains information extracted from NBA.com about all current and past NBA players
 - stage1.py: contains implementation of exploratory algorithms used in stage one of the project to find the longest chained name (LCN)
