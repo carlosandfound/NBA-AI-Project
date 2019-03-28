@@ -1,7 +1,7 @@
 # NBA Artificial Intelligence Research Project
 
 ### Purpose
-Implement the following pathfinding and exploratory algorithms in python to compare their efficiency in solving the NBA "name chaining problem" (NCP):
+Artificial Intelligence-related research project that involves python implementations of the following pathfinding and exploratory algorithms to compare their efficiency in solving the [NBA "name chaining problem"](https://github.com/carlosandfound/NBA-AI-Research/blob/master/pathfinding-and-exploration.pdf) (NCP):
 - Breadth-First a_star_search
 - Depth-First-Search
 - Iterative Deepening Depth-First Search
