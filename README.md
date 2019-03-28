@@ -21,6 +21,10 @@ Artificial Intelligence-related research project that involves python implementa
 
 
 ### How to run
-Run command "python &lt;PROGRAM FILENAME&gt; &lt;DATA FILENAME&gt;" where
+Run command
+```
+python <PROGRAM FILENAME> <DATA FILENAME>
+```
+where
 1. 'PROGRAM FILENAME' is either 'exploration.py', 'simple-pathfinding.py', or 'advanced-pathfinding.py'
 2. 'DATA FILENAME' is either 'small-sample.html' or 'large-sample.html'
